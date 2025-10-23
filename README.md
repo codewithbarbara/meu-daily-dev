@@ -25,10 +25,9 @@ Depois disso, o script sobe o readme.md automaticamente!
 ### 📁 Estrutura do meu projeto:
 MeuDailyDev/
 │
-├── diario.py  // é o script principal do meu diário.
-├── README.md  // onde todos os meus registros são salvos.
-└── .git/ // controle de versão do git.
-
+├── diario.py  // é o script principal do meu diário.  
+├── README.md  // onde todos os meus registros são salvos.  
+└── .git/ // controle de versão do git.  
 
 ---
 

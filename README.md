@@ -56,3 +56,10 @@ E até mesmo nos dias difíceis, sempre há algo novo pra aprender ou registrar!
 
 ---
 
+### 🗓 2025-10-23 (Quinta-feira) 😄
+**Horário:** 19:33
+
+**Resumo:** Hoje é meu primeiro dia atualizando meu dia-a-dia aqui...  Estou animada para encher tudo isso aqui com minha rotina e aprendizados!  Hoje estudei na matéria de **Fundamentos à Engenharia de Software** sobre dívidas técnicas e também sobre as refatorações dessas dívidas... foi uma aula bastante teórica até certo ponto, pois querendo ou não, a matéria em si demanda muito de teorias. Porém, entreteando, todavia, a mulher incrível que eu chamo de professora, sempre dá um jeito de não deixar a aula muito monótoma, então hoje, com base nos conteúdos passados, tivemos uma dinâmica de jogo de tabuleiro, aplicando os conhecimentos dos conteúdos da aula, as dívidas técnicas eram alguns "atalhos" no percurso do jogo, mas que nos faziam "pagar pedágios" por termos pêgo o caminho "mais fácil", etc... foi uma aula MUITO satisfatória.  Na segunda aula, fomos para o auditório da puc e assistimos uma palestra sobre internacionalização dos estudos (intercâmbio), foi legal.
+
+---
+

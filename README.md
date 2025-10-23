@@ -15,6 +15,7 @@ Depois disso, o script sobe o readme.md automaticamente!
 
 ---
 
+### 🧠 Tecnologias que usei:
 <div style="display: flex; justify-content: center; margin-top: 10px;">
 
 <table>
@@ -41,8 +42,6 @@ Depois disso, o script sobe o readme.md automaticamente!
 </table>
 
 </div>
-
-
 
 ---
 

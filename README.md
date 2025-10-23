@@ -46,15 +46,8 @@ E até mesmo nos dias difíceis, sempre há algo novo pra aprender ou registrar!
 🌿 Feito com amor por **@codewithbarbara**!
 
 ---
-<div align="center">
 
 ## 🌱 Entradas do Diário 🌱
-### 🗓 2025-10-23 (Quinta-feira) 😄
-**Horário:** 19:26
-
-**Resumo:** Hoje é meu primeiro dia registrando aqui nesse diário tech, estou animada!
-
----
 
 ### 🗓 2025-10-23 (Quinta-feira) 😄
 **Horário:** 19:33

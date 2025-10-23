@@ -51,9 +51,9 @@ E até mesmo nos dias difíceis, sempre há algo novo pra aprender ou registrar!
 
 ---
 ### 🌐 Meus perfis no instagram
-📸 **@codewithbarbara**
-📸 **@0xbabi**
-📸 **@babibertolazzo**
+📸 [**@codewithbarbara**](https://www.instagram.com/codewithbarbara)
+📸 [**@0xbabi**](https://www.instagram.com/0xbabi)
+📸 [**@babibertolazzo**](https://www.instagram.com/babibertolazzo)
 
 ---
 

@@ -1,3 +1,5 @@
+<div align="center">
+
 # 💫 Meu daily dev!
 
 📘 **Meu diário acadêmico e de desenvolvimento na área tech**  
@@ -13,21 +15,34 @@ Depois disso, o script sobe o readme.md automaticamente!
 
 ---
 
-### 🧠 Tecnologias que usei:
-| Ferramenta | Função |
-|-------------|--------|
-| 🐍 **Python 3** | Lê minhas respostas e adiciona ao diário |
-| 🌿 **Git & GitHub** | Guardam minha história e mostram meu progresso |
-| 🔐 **SSH** | Faz o envio automático |
+<div style="display: flex; justify-content: center; margin-top: 10px;">
 
----
+<table>
+  <thead>
+    <tr>
+      <th>Ferramenta</th>
+      <th>Função</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🐍 <b>Python 3</b></td>
+      <td>Lê minhas respostas e adiciona ao diário</td>
+    </tr>
+    <tr>
+      <td>🌿 <b>Git & GitHub</b></td>
+      <td>Guardam minha história e mostram meu progresso</td>
+    </tr>
+    <tr>
+      <td>🔐 <b>SSH</b></td>
+      <td>Faz o envio automático</td>
+    </tr>
+  </tbody>
+</table>
 
-### 📁 Estrutura do meu projeto:
-MeuDailyDev/  
-│  
-├── diario.py  // é o script principal do meu diário.  
-├── README.md  // onde todos os meus registros são salvos.  
-└── .git/ // controle de versão do git.  
+</div>
+
+
 
 ---
 
@@ -44,6 +59,7 @@ E até mesmo nos dias difíceis, sempre há algo novo pra aprender ou registrar!
 ---
 
 🌿 Feito com amor por **@codewithbarbara**!
+</div>
 
 ---
 

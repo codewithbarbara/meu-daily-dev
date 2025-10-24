@@ -71,3 +71,10 @@ E até mesmo nos dias difíceis, sempre há algo novo pra aprender ou registrar!
 
 ---
 
+### 🗓 2025-10-24 (Sexta-feira) ✨
+**Horário:** 20:17
+
+**Resumo:** Hoje foi uma loucura, acordei atrasada, sem ânimo algummm... mas fui à facul mesmo assim, tenho que aprender a queimar um barco por dia, né? Assisti a aula de **fundamentos** e iria ficar pra aula de **cálculo I**, mas acabei sentindo uma ansiedadezinha e decidi vir pra casa. A tarde eu trabalhei em um projeto pra uma empresa parceira, com o framework **ANGULAR**, é um pouco novo p mim, mas estou me dando bem! Mais tarde irei fazer um **madrugadão de AEDS** (virar a noite estudando, e nesse caso, AEDS [algoritmo e estrutura de dados]), me desejem sorte!! Aliás, estou pensando seriamente em gravar um conteúdo pro insta com base no meu madrugadão... Bye Bye!!!
+
+---
+
